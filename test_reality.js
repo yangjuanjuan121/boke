@@ -569,3 +569,4 @@ console.log(arr) // [1,2,'hello',4,5] 改变了原数组
 var person = {name: 'yangjie'}
 person.age = 13;
 person['mother']= 'lady'
+
